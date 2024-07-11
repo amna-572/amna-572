@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Amna! 👋
 
-<!--
-**amna-572/amna-572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a Computer Science student, a Flutter developer, and a Data Science enthusiast. I enjoy building mobile applications and diving deep into data analysis and machine learning.
 
-Here are some ideas to get you started:
+- 🌟 **Flutter Developer:** Building cross-platform apps.
+- 📊 **Data Science Enthusiast:** Analyzing data, creating models, and visualizing results.
+- 💻 **Computer Science Student:** Learning and implementing software engineering principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Dart, Python, Java, JavaScript
+- **Frameworks:** Flutter, TensorFlow, Pandas
+- **Tools:** Git, VS Code, Jupyter Notebooks
+
+## 📈 GitHub Stats
+![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amna-572&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amna-572&layout=compact&theme=radical)
+
+## 🌱 Currently Learning
+- Advanced Flutter development
+- Machine learning algorithms
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in//amna-batool19/)
+
