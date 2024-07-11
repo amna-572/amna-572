@@ -9,8 +9,7 @@ I am a Computer Science student, a Flutter developer, and a Data Science enthusi
 
 ## 🛠️ Skills
 - **Languages:** Dart, Python, Java, JavaScript
-- **Frameworks:** Flutter, TensorFlow, Pandas
-- **Tools:** Git, VS Code, Jupyter Notebooks
+- **Tools:** Git, VS Code, Jupyter Notebooks, Python, SQL, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL, PostgreSQL, MongoDB, Google CoLab
 
 ## 📈 GitHub Stats
 ![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amna-572&show_icons=true&theme=radical)
@@ -21,5 +20,5 @@ I am a Computer Science student, a Flutter developer, and a Data Science enthusi
 - Machine learning algorithms
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in//amna-batool19/)
+- [LinkedIn](https://www.linkedin.com/in/amna-batool19/)
 
