@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=288AB5&center=true&repeat=false&random=false&width=435&lines=Amna+Batool)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B51701&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Amna+Batool)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B51701&center=true&random=false&width=435&lines=Flutter+Developer;Data+Analyst)](https://git.io/typing-svg)
 
