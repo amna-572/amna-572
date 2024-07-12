@@ -14,7 +14,7 @@ I am a Computer Science student, a Flutter developer, and a Data Science enthusi
 - **Languages:** Dart, Python, Java, JavaScript
 - **Tools:** Git, VS Code, Jupyter Notebooks, Python, SQL, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL, PostgreSQL, MongoDB, Google CoLab
 
-<h1 align="center">Languages-Frameworks-Tools</h1>
+# Languages-Frameworks-Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -44,8 +44,7 @@ I am a Computer Science student, a Flutter developer, and a Data Science enthusi
 
 <h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
 </p>
@@ -53,6 +52,7 @@ I am a Computer Science student, a Flutter developer, and a Data Science enthusi
 
 ## 📈 GitHub Stats
 ![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amna-572&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amna-572&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amna-572&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
