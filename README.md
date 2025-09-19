@@ -1,69 +1,77 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B51701&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Amna+Batool)](https://git.io/typing-svg)
+# Hi there! 👋 I'm Amna - Your Friendly Neighborhood Backend Wizard 🧙‍♀️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B51701&center=true&random=false&width=435&lines=Flutter+Developer;Data+Analyst)](https://git.io/typing-svg)
+## 🎭 About Me
+- 🔧 **Professional Server Whisperer** - I speak fluent API and database
+- 🐛 **Bug Bounty Hunter** - I don't find bugs, they find me (and we become best friends)
+- ☕ **Coffee-Driven Developer** - My code quality is directly proportional to my caffeine intake
+- 🌙 **Night Owl Programmer** - Because production servers only break at 3 AM
+- 🔥 **Backend Enthusiast** - Frontend? Never heard of her.
+- 💭 **Philosophy:** Why waste time explaining things to people when you can just write code and build APIs? Less talking, more coding! 🚀
 
-## 👨‍💻 About Me
-I am a Computer Science student, a Flutter developer, and a Data Science enthusiast. I enjoy building mobile applications and diving deep into data analysis and machine learning.
+## 🛠️ My Tech Stack
+```
+Languages: [Python, Java, JavaScript, "Fluent Sarcasm"]
+Databases: [MongoDB, PostgreSQL, MySQL, "The one that's always down"]
+Frameworks: [Django, Flask, Express.js, "Framework of Despair"]
+Cloud: [AWS, "The Cloud™", "Someone Else's Computer"]
+Tools: [Docker, Kubernetes, "Stack Overflow", "Google Fu"]
+```
 
-- 🌟 **Flutter Developer:** Building cross-platform apps.
-- 📊 **Data Science Enthusiast:** Analyzing data, creating models, and visualizing results.
-- 💻 **Computer Science Student:** Learning and implementing software engineering principles.
+## 📊 GitHub Stats That Definitely Matter
+- 🔥 **Lines of Code Written:** Approximately 47 million (mostly console.log statements)
+- 🐛 **Bugs Created:** 404 - Not Found
+- ☕ **Coffee Consumed:** Yes
+- 😴 **Hours of Sleep:** What's sleep?
+- 🚀 **Production Deployments on Friday:** 0 (I'm not a monster)
 
-## 🛠️ Skills
-- **Languages:** Dart, Python, Java, JavaScript
-- **Tools:** Git, VS Code, Jupyter Notebooks, Python, SQL, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL, PostgreSQL, MongoDB, Google CoLab
+## 🎯 Current Status
+```javascript
+const amna = {
+  status: "Code karo, API banao, explanation kam karo",
+  motto: "Why explain when you can demonstrate with working code?",
+  currentlyLearning: ["How to let my APIs do the talking"],
+  workingOn: "Building stuff that actually works instead of PowerPoint presentations",
+  askMeAbout: ["APIs that speak for themselves", "Code that doesn't need explanation"],
+  funFact: "I believe actions speak louder than words... especially HTTP actions! 😄"
+}
+```
 
-# Languages-Frameworks-Tools
+## 🏆 Achievements Unlocked
+- ✅ **"It Works on My Machine"** - Master Level
+- ✅ **"Survived a Database Migration"** - Legendary
+- ✅ **"Fixed a Production Bug at 2 AM"** - Nightmare Mode
+- ✅ **"Explained REST APIs Without Crying"** - Miracle Worker
+- ⏳ **"Centered a Div"** - Still Working On It (JK, I'm backend!)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0769AD?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-007FFF?style=flat-square&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_CoLab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-</p>
+## 🎪 Fun Facts About My Code
+- My APIs are RESTful, but I am not
+- I write more documentation comments than actual code (just kidding, who has time for docs?)
+- My error messages are more creative than my variable names
+- I believe in microservices... the smaller, the better (easier to blame someone else)
 
-## 📈 GitHub Stats
-![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amna-572&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amna-572&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amna-572&layout=compact&theme=radical)
+## 📞 Contact Me
+- 💼 **LinkedIn:** [Let's connect professionally]
+- 📧 **Email:** [For bug reports and existential crises]
+- 🐦 **Twitter:** [Where I complain about APIs]
+- ☕ **Coffee Shop:** [That's where you'll find me debugging]
 
-## 🌱 Currently Learning
-- Advanced Flutter development
-- Machine learning algorithms
+## 🎵 My Coding Playlist
+Currently vibing to: *"Hello World" by The Syntax Errors* 🎶
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/amna-batool19/)
+---
 
+### 💡 Pro Tip
+If my repositories seem quiet, I'm probably:
+- Fighting with a database 🗡️
+- Reading documentation 📚
+- Questioning my life choices 🤔
+- Actually fixing bugs (rare but it happens) ✨
+
+**Remember:** There are only 2 hard problems in computer science:
+1. Cache invalidation
+2. Naming things  
+3. Off-by-one errors
+
+---
+
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand... I'm still working on that part."* - Probably not Martin Fowler, but definitely me at 3 AM
