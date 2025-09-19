@@ -44,10 +44,4 @@ const amna = {
 - My error messages are more creative than my variable names
 - I believe in microservices... the smaller, the better (easier to blame someone else)
 
-## 📞 Contact Me
-- 💼 **LinkedIn:** [Let's connect professionally]
-- 📧 **Email:** [For bug reports and existential crises]
-- 🐦 **Twitter:** [Where I complain about APIs]
-- ☕ **Coffee Shop:** [That's where you'll find me debugging]
-
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand... I'm still working on that part."* - Probably not Martin Fowler, but definitely me at 3 AM
